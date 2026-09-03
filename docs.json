@@ -1,0 +1,17 @@
+{
+  "theme": "mint",
+  "name": "My docs",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#22C55E",
+    "dark": "#15803D"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Guide",
+        "pages": ["index"]
+      }
+    ]
+  }
+}
